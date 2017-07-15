@@ -1,0 +1,11 @@
+2017-07-01 23:32:36,645 [1] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-01 23:33:07,717 [1] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob.
+
+2017-07-01 23:33:41,104 [1] [Validate] [(null)]  INFO  Validating I
+
+2017-07-01 23:33:41,181 [1] [Validate] [(null)]  WARN  Found validationExceptions Invalid symbol found in Roman numeral.
+
+
+2017-07-01 23:34:01,080 [1] [Validate] [(null)]  INFO  Validating I
+

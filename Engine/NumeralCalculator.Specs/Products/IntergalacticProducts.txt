@@ -1,0 +1,4 @@
+glob
+prok
+pish
+tegj

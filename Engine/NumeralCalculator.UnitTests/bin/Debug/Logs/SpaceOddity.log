@@ -1,0 +1,2149 @@
+2017-07-02 09:20:22,326 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:20:22,466 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:20:22,478 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:20:22,589 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:21:29,062 [16] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:21:44,091 [16] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:22:02,742 [16] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:25:56,468 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:25:56,617 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:25:56,625 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:25:56,717 [20] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 09:25:56,732 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:27:54,587 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:34:47,342 [19] [GetMultiplierValue] [(null)]  ERROR Intergalactic product phish is not found in the cache.
+
+2017-07-02 09:36:47,105 [4] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:36:47,243 [4] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:36:47,255 [4] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:36:47,346 [4] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 09:36:47,359 [4] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:36:47,494 [23] [GetMultiplierValue] [(null)]  ERROR Null value found for Intergalactic product prok in the cache.
+
+2017-07-02 09:36:47,516 [24] [GetMultiplierValue] [(null)]  ERROR Intergalactic product phish is not found in the cache.
+
+2017-07-02 09:55:27,794 [20] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 09:58:47,406 [19] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:58:47,521 [19] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:58:47,527 [19] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:58:47,576 [19] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 09:58:47,588 [19] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 09:58:47,624 [21] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 09:58:47,689 [25] [GetMultiplierValue] [(null)]  ERROR Null value found for Intergalactic product prok in the cache.
+
+2017-07-02 09:58:47,696 [26] [GetMultiplierValue] [(null)]  ERROR Intergalactic product phish is not found in the cache.
+
+2017-07-02 11:00:32,086 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,191 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:00:32,205 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,208 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:00:32,294 [6] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,297 [6] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:00:32,335 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,343 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,364 [4] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:00:32,369 [4] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:05:38,933 [16] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:05:51,750 [16] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:11:24,868 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 11:11:25,000 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 11:11:25,009 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 11:11:25,098 [20] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 11:11:25,152 [20] [GetEarthyProductValue] [(null)]  WARN  No intergalacticProducts tagged with earthyProduct:Silver. Returning value:34 for string value of:34
+
+2017-07-02 11:11:25,206 [22] [GetEarthyProductValue] [(null)]  ERROR Invalid Multiplier: 0 returned for earthyProduct:Silver with value:34 - Tagged IntergalacticProducts:glob, prok, phish, tegj
+
+2017-07-02 11:11:25,307 [26] [GetMultiplierValue] [(null)]  ERROR Null value found for Intergalactic product prok in the cache.
+
+2017-07-02 11:11:25,320 [27] [GetMultiplierValue] [(null)]  ERROR Intergalactic product phish is not found in the cache.
+
+2017-07-02 11:11:48,280 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,394 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:11:48,410 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,413 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:11:48,502 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,505 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:11:48,541 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,548 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,573 [24] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:11:48,577 [24] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,153 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,245 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:12:49,256 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,258 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:12:49,309 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,311 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:12:49,368 [24] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,375 [24] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,394 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:12:49,399 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:14:58,726 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:14:58,825 [20] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 11:14:58,841 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 11:39:13,435 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content Hello Earth
+
+2017-07-02 11:39:13,530 [20] [ProcessContent] [(null)]  WARN  Hello Earth at line number 1 does not contain 'is' keyword. Skipping...
+
+2017-07-02 11:39:13,535 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content Is Kepler-22b near to Kepler-69c?
+
+2017-07-02 11:39:13,541 [20] [ProcessContent] [(null)]  WARN  Is Kepler-22b near to Kepler-69c? at line number 2 does not contain 'is' keyword. Skipping...
+
+2017-07-02 11:39:13,544 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth!
+
+2017-07-02 11:39:13,546 [20] [ProcessContent] [(null)]  WARN  In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth! at line number 3 is not properly formatted. Skipping...
+
+2017-07-02 11:40:00,834 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content Hello Earth
+
+2017-07-02 11:40:00,887 [19] [ProcessContent] [(null)]  WARN  Hello Earth at line number 1 does not contain 'is' keyword. Skipping...
+
+2017-07-02 11:40:00,890 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content Is Kepler-22b near to Kepler-69c?
+
+2017-07-02 11:40:00,891 [19] [ProcessContent] [(null)]  WARN  Is Kepler-22b near to Kepler-69c? at line number 2 does not contain 'is' keyword. Skipping...
+
+2017-07-02 11:40:00,893 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth!
+
+2017-07-02 11:40:00,894 [19] [ProcessContent] [(null)]  WARN  In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth! at line number 3 is not properly formatted. Skipping...
+
+2017-07-02 12:00:55,531 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:00:55,640 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,656 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:00:55,661 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,663 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:00:55,665 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,668 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:00:55,670 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,672 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:00:55,673 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,676 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:00:55,678 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,680 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:00:55,682 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,684 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 8 with content how much is pish tegj glob glob ?
+
+2017-07-02 12:00:55,693 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 9 with content how many Credits is glob prok Silver ?
+
+2017-07-02 12:00:55,696 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 10 with content how many Credits is glob prok Gold ?
+
+2017-07-02 12:00:55,698 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 11 with content how many Credits is glob prok Iron ?
+
+2017-07-02 12:00:55,821 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:00:55,825 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,830 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:00:55,833 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,836 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:00:55,839 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,844 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:00:55,848 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,851 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:00:55,855 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,858 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:00:55,863 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,866 [5] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:00:55,869 [5] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:55,921 [6] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content Hello Earth
+
+2017-07-02 12:00:55,926 [6] [ProcessContent] [(null)]  WARN  Hello Earth at line number 1 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:00:55,929 [6] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content Is Kepler-22b near to Kepler-69c?
+
+2017-07-02 12:00:55,931 [6] [ProcessContent] [(null)]  WARN  Is Kepler-22b near to Kepler-69c? at line number 2 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:00:55,933 [6] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth!
+
+2017-07-02 12:00:55,935 [6] [ProcessContent] [(null)]  WARN  In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth! at line number 3 is not properly formatted. Skipping...
+
+2017-07-02 12:00:55,936 [6] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+
+2017-07-02 12:00:55,938 [6] [ProcessContent] [(null)]  WARN  how much wood could a woodchuck chuck if a woodchuck could chuck wood ? at line number 4 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:00:55,969 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:00:55,972 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:00:55,975 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:00:55,977 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:00:55,979 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:00:55,980 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:00:55,982 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:00:56,005 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:00:56,016 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+Moq.MockException: IProductDataValidator.GetProducts("glob", 1) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,018 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:00:56,020 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+Moq.MockException: IProductDataValidator.GetProducts("prok", 2) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,023 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:00:56,025 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+Moq.MockException: IProductDataValidator.GetProducts("pish", 3) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,027 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:00:56,029 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+Moq.MockException: IProductDataValidator.GetProducts("tegj", 4) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,031 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:00:56,033 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+Moq.MockException: IProductDataValidator.GetProducts("glob glob Silver", 5) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,035 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:00:56,038 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+Moq.MockException: IProductDataValidator.GetProducts("glob prok Gold", 6) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:00:56,040 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:00:56,043 [22] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+Moq.MockException: IProductDataValidator.GetProducts("pish pish Iron", 7) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,702 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:04:29,821 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,836 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:04:29,838 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,841 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:04:29,844 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,847 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:04:29,849 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,851 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:04:29,853 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,855 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:04:29,858 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,861 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:04:29,865 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:29,867 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 8 with content how much is pish tegj glob glob ?
+
+2017-07-02 12:04:29,877 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 9 with content how many Credits is glob prok Silver ?
+
+2017-07-02 12:04:29,880 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 10 with content how many Credits is glob prok Gold ?
+
+2017-07-02 12:04:29,882 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 11 with content how many Credits is glob prok Iron ?
+
+2017-07-02 12:04:30,017 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:04:30,020 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,022 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:04:30,027 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,031 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:04:30,033 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,036 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:04:30,038 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,041 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:04:30,046 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,049 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:04:30,052 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,055 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:04:30,057 [20] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:04:30,113 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content Hello Earth
+
+2017-07-02 12:04:30,118 [21] [ProcessContent] [(null)]  WARN  Hello Earth at line number 1 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:04:30,120 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content Is Kepler-22b near to Kepler-69c?
+
+2017-07-02 12:04:30,122 [21] [ProcessContent] [(null)]  WARN  Is Kepler-22b near to Kepler-69c? at line number 2 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:04:30,124 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth!
+
+2017-07-02 12:04:30,126 [21] [ProcessContent] [(null)]  WARN  In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth! at line number 3 is not properly formatted. Skipping...
+
+2017-07-02 12:04:30,129 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+
+2017-07-02 12:04:30,132 [21] [ProcessContent] [(null)]  WARN  how much wood could a woodchuck chuck if a woodchuck could chuck wood ? at line number 4 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:04:30,158 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:04:30,165 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:04:30,168 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:04:30,170 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:04:30,173 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:04:30,177 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:04:30,180 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:04:30,204 [23] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content how much is pish tegj glob glob ?
+
+2017-07-02 12:04:30,207 [23] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content how many Credits is glob prok Silver ?
+
+2017-07-02 12:04:30,214 [23] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content how many Credits is glob prok Gold ?
+
+2017-07-02 12:04:30,217 [23] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content how many Credits is glob prok Iron ?
+
+2017-07-02 12:08:51,020 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:08:51,148 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,166 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:08:51,168 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,171 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:08:51,173 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,176 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:08:51,181 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,184 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:08:51,187 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,189 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:08:51,192 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,195 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:08:51,199 [18] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,202 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 8 with content how much is pish tegj glob glob ?
+
+2017-07-02 12:08:51,214 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 9 with content how many Credits is glob prok Silver ?
+
+2017-07-02 12:08:51,217 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 10 with content how many Credits is glob prok Gold ?
+
+2017-07-02 12:08:51,219 [18] [ProcessContent] [(null)]  INFO  Preprocessing line number 11 with content how many Credits is glob prok Iron ?
+
+2017-07-02 12:08:51,357 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:08:51,363 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,367 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:08:51,371 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 2.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,374 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:08:51,379 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 3.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,383 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:08:51,388 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 4.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,393 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:08:51,399 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 5.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,402 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:08:51,404 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 6.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,407 [19] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:08:51,412 [19] [Process] [(null)]  ERROR Exception found when Preprocessing line: 7.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.GetProducts(String content, Int32 lineNumber)
+   at NumeralCalculator.Worker.PreProcessor.ProcessContent(String content, Int32 lineNumber, InputType typeOfInput, IEnumerable`1& products, String& productValue) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 79
+   at NumeralCalculator.Worker.PreProcessor.Process(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\PreProcessor.cs:line 39
+2017-07-02 12:08:51,442 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content Hello Earth
+
+2017-07-02 12:08:51,450 [20] [ProcessContent] [(null)]  WARN  Hello Earth at line number 1 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:08:51,455 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content Is Kepler-22b near to Kepler-69c?
+
+2017-07-02 12:08:51,458 [20] [ProcessContent] [(null)]  WARN  Is Kepler-22b near to Kepler-69c? at line number 2 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:08:51,461 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth!
+
+2017-07-02 12:08:51,465 [20] [ProcessContent] [(null)]  WARN  In the realms of merchant business, Gliese 667Cc is better than Kepler-229, but Kepler-229 is nearer to earth! at line number 3 is not properly formatted. Skipping...
+
+2017-07-02 12:08:51,468 [20] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+
+2017-07-02 12:08:51,470 [20] [ProcessContent] [(null)]  WARN  how much wood could a woodchuck chuck if a woodchuck could chuck wood ? at line number 4 does not contain 'is' keyword. Skipping...
+
+2017-07-02 12:08:51,508 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content glob is I
+
+2017-07-02 12:08:51,513 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content prok is V
+
+2017-07-02 12:08:51,516 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content pish is X
+
+2017-07-02 12:08:51,519 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content tegj is L
+
+2017-07-02 12:08:51,521 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 5 with content glob glob Silver is 34 Credits
+
+2017-07-02 12:08:51,527 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 6 with content glob prok Gold is 57800 Credits
+
+2017-07-02 12:08:51,531 [21] [ProcessContent] [(null)]  INFO  Preprocessing line number 7 with content pish pish Iron is 3910 Credits
+
+2017-07-02 12:08:51,558 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 1 with content how much is pish tegj glob glob ?
+
+2017-07-02 12:08:51,562 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 2 with content how many Credits is glob prok Silver ?
+
+2017-07-02 12:08:51,566 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 3 with content how many Credits is glob prok Gold ?
+
+2017-07-02 12:08:51,569 [22] [ProcessContent] [(null)]  INFO  Preprocessing line number 4 with content how many Credits is glob prok Iron ?
+
+2017-07-02 13:07:39,053 [19] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 13:08:59,655 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 13:08:59,853 [22] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 13:57:48,523 [19] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 13:57:48,822 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 13:57:48,997 [23] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:07:35,971 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:07:36,081 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:07:36,151 [23] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:07:36,197 [25] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:grrr for unitType:ArabicNumeralWithoutCredits
+
+2017-07-02 14:20:02,615 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:20:02,690 [22] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:20:02,819 [25] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:24:15,463 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:24:15,535 [20] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:yaba, daba, doo for unitType:ArabicNumeralWithoutCredits
+
+2017-07-02 14:25:27,530 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:25:27,732 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:25:27,819 [22] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:25:27,827 [22] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:yaba, daba, doo for unitType:ArabicNumeralWithoutCredits
+
+2017-07-02 14:25:27,901 [24] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:29:46,627 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:35:27,821 [18] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:42:32,337 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:50:14,907 [16] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 14:52:11,975 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:00:08,534 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:00:08,660 [20] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:prok, phish, Gold for unitType:ArabicNumeralWithCredits
+
+2017-07-02 15:02:36,017 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,218 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,225 [21] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:prok, pish, Gold for unitType:ArabicNumeralWithCredits
+
+2017-07-02 15:02:36,280 [22] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,296 [23] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,312 [24] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,314 [24] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:alpha, beta, tango for unitType:ArabicNumeralWithoutCredits
+
+2017-07-02 15:02:36,362 [26] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,382 [27] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:02:36,409 [28] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:03:42,812 [7] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:06:50,606 [5] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,171 [20] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,441 [21] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,460 [22] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,478 [23] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,494 [24] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,499 [24] [InterpretProducts] [(null)]  WARN  Failed to get a response. Returning empty response. Product Details:alpha, beta, tango for unitType:ArabicNumeralWithoutCredits
+
+2017-07-02 15:07:24,576 [26] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,592 [27] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:07:24,610 [28] [Interpret] [(null)]  INFO  Interpreting Query at line number 1.
+
+2017-07-02 15:15:28,727 [20] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:15:28,953 [4] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:15:29,085 [22] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:25:38,992 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:25:39,040 [20] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 62
+2017-07-02 15:29:33,613 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:29:33,662 [20] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 62
+2017-07-02 15:30:10,237 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,285 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 62
+2017-07-02 15:30:10,347 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,372 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 15:30:10,381 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,399 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,401 [23] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 50
+2017-07-02 15:30:10,420 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,421 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,432 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:30:10,433 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 15:33:52,150 [21] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:33:52,315 [23] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:33:52,430 [24] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:33:52,474 [26] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,687 [20] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,864 [21] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,879 [22] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,908 [23] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,934 [24] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:46,996 [25] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 15:50:47,035 [27] [Interpret] [(null)]  INFO  Interpreting Product(s) at line number 1.
+
+2017-07-02 16:11:16,247 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 16:11:16,309 [20] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 16:11:53,218 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 16:11:53,277 [20] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 16:35:08,725 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have valid product(s). Skipping...
+
+2017-07-02 16:35:08,751 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have valid product(s). Skipping...
+
+2017-07-02 16:35:08,773 [4] [GetProducts] [(null)]  INFO  Product List (derived by reading the input lines) does not contain product uptil now:glob at line number 1.
+Skipping...
+
+2017-07-02 16:47:20,183 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have valid product(s). Skipping...
+
+2017-07-02 16:47:20,210 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have valid product(s). Skipping...
+
+2017-07-02 16:47:20,219 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have valid product(s). Skipping...
+
+2017-07-02 16:47:20,243 [21] [GetProducts] [(null)]  INFO  Product List (derived by reading the input lines) does not contain product uptil now:glob at line number 1.
+Skipping...
+
+2017-07-02 16:48:18,473 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 16:48:18,544 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 16:48:18,550 [20] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:03:41,495 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:03:41,582 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:03:41,588 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:03:41,594 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:03:41,620 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:03:41,623 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:03:41,625 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:03:41,737 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:03:41,739 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:03:41,741 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:06:07,692 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:06:07,783 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:06:07,789 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:06:07,795 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:06:07,824 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:06:07,827 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:06:07,829 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:06:07,909 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:06:07,911 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:06:07,912 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:39:37,208 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:39:37,321 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:39:37,327 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:39:37,333 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:39:37,358 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:39:37,360 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:39:37,362 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:39:37,434 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:39:37,436 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:39:37,438 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:39:37,551 [24] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:39:37,569 [25] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: IXABC 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:39:37,589 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:39:37,607 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:39:37,617 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:49:42,924 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:49:43,004 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:49:43,009 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:49:43,016 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:49:43,036 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:49:43,038 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:49:43,040 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:49:43,093 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:49:43,095 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:49:43,097 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:49:43,145 [24] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:49:43,178 [24] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:49:43,193 [25] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: IXABC 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:49:43,201 [25] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: IX 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:49:43,212 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:49:43,227 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:49:43,235 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:52:21,313 [16] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:52:21,452 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:52:21,459 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:52:21,464 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:52:21,511 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:52:21,514 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:52:21,516 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:52:21,632 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:52:21,635 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:52:21,637 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:52:37,851 [20] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:53:47,778 [16] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:53:47,884 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:53:47,890 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:53:47,895 [17] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:53:47,945 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:53:47,948 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:53:47,950 [18] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:53:48,052 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:53:48,054 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:53:48,056 [19] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:53:51,498 [20] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,101 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 17:55:40,244 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:55:40,254 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:55:40,265 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 17:55:40,344 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 17:55:40,346 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:55:40,349 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:55:40,413 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 17:55:40,415 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 17:55:40,416 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 17:55:40,474 [24] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,486 [24] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: Credits 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,523 [24] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,539 [25] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: IXABC 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,549 [25] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: IX 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 17:55:40,562 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:55:40,569 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 17:55:40,576 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 18:05:02,920 [20] [UpdateProductCache] [(null)]  WARN  Line number 1 contained an invalid product entry:kryptonite, Skipping...
+
+2017-07-02 18:05:03,032 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 18:05:03,039 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 18:05:03,044 [21] [GetProducts] [(null)]  WARN  Line number 1 does not have a valid product. Skipping...
+
+2017-07-02 18:05:03,075 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:glob. Found in 'in-memory' list of products. Skipping adding to it.
+
+2017-07-02 18:05:03,078 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 18:05:03,080 [22] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 18:05:03,148 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:tegj.
+
+2017-07-02 18:05:03,149 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:pish.
+
+2017-07-02 18:05:03,150 [23] [UpdateProductCache] [(null)]  INFO  Line number 1 contains valid product:prok.
+
+2017-07-02 18:05:03,212 [24] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 18:05:03,225 [24] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: Credits 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 18:05:03,241 [24] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: 100 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 18:05:03,268 [25] [GetProductValue] [(null)]  WARN  Validation issue found for roman numberal: IXABC 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 18:05:03,278 [25] [GetProductValue] [(null)]  WARN  Validation issue found for arabic numeric value: IX 
+Error: Error on Line Number: 1. Skipping...
+
+2017-07-02 18:05:03,295 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 18:05:03,303 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 18:05:03,310 [26] [GetProductValue] [(null)]  WARN  Line number 1 does not have a valid product value. Skipping...
+
+2017-07-02 18:11:16,840 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:16,927 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:11:17,002 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,005 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:11:17,082 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,086 [23] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 18:11:17,091 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,196 [24] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,198 [24] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 18:11:17,223 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,225 [26] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:11:17,242 [4] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,245 [4] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 18:11:17,247 [4] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,248 [4] [Analyze] [(null)]  WARN  No products found to analyze. Skipping...
+
+2017-07-02 18:11:17,266 [27] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:11:17,267 [27] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,418 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,504 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:15:03,559 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,562 [22] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,566 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,645 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,647 [23] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,681 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,683 [25] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,685 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,687 [25] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,702 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,703 [26] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,716 [27] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,717 [27] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:15:03,730 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,732 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,769 [4] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,782 [4] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+Moq.MockException: IInterpreter`1.Interpret((1, System.String[], )) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy_1.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 62
+2017-07-02 18:15:03,834 [29] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:15:03,837 [29] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+Moq.MockException: IInterpreter`1.Interpret((1, , )) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy_1.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 62
+2017-07-02 18:18:16,479 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:18:16,526 [20] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:16,947 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,000 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:19:17,055 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,058 [22] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,060 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,149 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,151 [23] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,204 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,205 [25] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,206 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,207 [25] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,222 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,223 [26] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,234 [27] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,236 [27] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:19:17,247 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,252 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,285 [29] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:19:17,299 [30] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:04,965 [21] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,013 [21] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.InvalidOperationException: Invalid InputType Enum.
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 68
+2017-07-02 18:23:05,061 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,084 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:23:05,089 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,090 [22] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:23:05,091 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,096 [22] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,140 [23] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,142 [23] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:23:05,171 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,172 [25] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,181 [26] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,185 [26] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:23:05,194 [27] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,195 [27] [Analyze] [(null)]  WARN  No products found to analyze. Skipping product data intrepretation...
+
+2017-07-02 18:23:05,208 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,210 [28] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,238 [29] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:23:05,252 [30] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:25:41,290 [16] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:25:51,594 [16] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:25:57,182 [16] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:26:04,341 [16] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:26:16,515 [16] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:27:37,783 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:27:37,858 [20] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:27:37,869 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:27:37,872 [20] [Analyze] [(null)]  ERROR Exception found when Analyzing line: 1.
+
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Moq.MethodCall.Execute(ICallContext call)
+   at Moq.MethodCallReturn`2.Execute(ICallContext call)
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx)
+   at Moq.Interceptor.Intercept(ICallContext invocation)
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Interpret(Tuple`3 content)
+   at NumeralCalculator.Worker.Analyzer.Analyze(IEnumerable`1 contents) in C:\Users\saket_000\Desktop\SpaceOddity\Engine\NumeralCalculator\Worker\Analyzer.cs:line 56
+2017-07-02 18:27:37,874 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 18:27:37,883 [20] [Analyze] [(null)]  INFO  Analyzing line number 1.
+
+2017-07-02 19:14:04,715 [19] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:14:04,840 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:14:05,246 [22] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:14:05,277 [22] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 19:43:00,630 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:43:01,005 [22] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 19:43:01,099 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 19:43:01,224 [25] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:43:01,458 [4] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:43:01,489 [4] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 19:44:29,333 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:44:29,686 [22] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 19:44:29,732 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 19:44:29,762 [25] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:44:29,823 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:44:29,837 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 19:47:19,848 [20] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:50:03,479 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:50:03,718 [4] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 19:50:03,753 [4] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 19:50:03,796 [21] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:50:03,814 [22] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 19:50:03,841 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:50:03,885 [26] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:50:03,899 [26] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 19:57:57,355 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:57:57,676 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 19:57:57,743 [22] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:57:57,760 [23] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 19:57:57,786 [25] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 19:57:57,828 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 19:57:57,842 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 20:31:24,757 [19] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:31:25,169 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:31:25,214 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:31:25,279 [21] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:31:25,304 [22] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 20:31:25,402 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:31:25,587 [26] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:31:25,605 [26] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 20:33:59,443 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:33:59,827 [4] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:33:59,870 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:33:59,877 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:33:59,910 [22] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:33:59,925 [23] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 20:33:59,957 [25] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:34:00,013 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:34:00,043 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 20:35:07,293 [19] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:35:07,460 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:35:07,505 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:35:07,526 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:35:07,532 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:35:07,560 [22] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:35:07,577 [23] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 20:35:07,596 [25] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:35:07,642 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:35:07,655 [27] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 20:57:23,308 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:57:23,563 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:57:23,598 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:57:23,711 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:57:23,719 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:57:23,740 [24] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:57:23,758 [25] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 20:57:23,784 [27] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:57:23,842 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:57:23,861 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 20:58:30,424 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:58:30,773 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:58:30,803 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:58:30,929 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:58:30,942 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 20:58:30,963 [24] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:58:30,989 [25] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 20:58:31,025 [27] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 20:58:31,075 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 20:58:31,091 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:03:52,999 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:03:53,272 [4] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:03:53,308 [4] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:03:53,512 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:03:53,520 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:03:53,549 [24] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:03:53,570 [25] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:03:53,596 [27] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:03:53,649 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:03:53,675 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:04:34,728 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:04:34,927 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:04:34,961 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:04:35,145 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:04:35,152 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:04:35,169 [25] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:04:35,195 [26] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:04:35,221 [28] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:04:35,262 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:04:35,271 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:05:03,809 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:05:04,041 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:05:04,087 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:05:04,312 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:05:04,321 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:05:04,344 [25] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:05:04,374 [26] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:05:04,409 [28] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:05:04,469 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:05:04,481 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:14,830 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:06:15,088 [6] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:15,129 [6] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:15,320 [22] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:15,329 [22] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:15,350 [23] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:15,377 [24] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:06:15,405 [26] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:06:15,452 [28] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:15,462 [28] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:56,417 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:06:56,679 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:56,718 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:56,935 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:56,943 [23] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:06:56,966 [24] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:56,986 [25] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:06:57,015 [27] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:06:57,065 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:06:57,076 [29] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:08:31,409 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:08:31,748 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:08:31,785 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:08:31,978 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:08:31,988 [24] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:08:32,011 [25] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:08:32,033 [26] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:08:32,082 [28] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:08:32,131 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:08:32,147 [30] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:11:49,265 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:11:49,574 [17] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:11:49,629 [17] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,405 [20] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:16:07,633 [6] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,669 [6] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,707 [5] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,719 [5] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,731 [5] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,744 [5] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,766 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,818 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,846 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,863 [21] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,883 [22] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,897 [22] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:16:07,921 [23] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:pish does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:16:07,940 [24] [IsInputValid] [(null)]  WARN  At Line number: 0, there are multiple Intergalactic Products and no Earthy products in this assignment line (Product Data Input Type). Invalid case.
+
+2017-07-02 21:16:07,975 [26] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:16:08,036 [28] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Intergalactic product:glob does not have proper roman numeral value. Value:123. Error:Error
+
+2017-07-02 21:16:08,059 [28] [IsProductValueValid] [(null)]  WARN  At Line number: 0, Earthy product:glob does not have proper arabic numeral value. Value:123. Error:Error
+
+2017-07-02 21:16:34,736 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:22:00,481 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:31:46,443 [15] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:32:01,135 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:32:13,472 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:32:13,564 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:32:13,578 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:32:13,593 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:32:13,635 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:11,742 [16] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there were no products found. Skipping.
+
+2017-07-02 21:35:12,116 [7] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:12,175 [7] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:12,241 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:12,255 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:12,267 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:12,283 [18] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
+2017-07-02 21:35:25,022 [19] [IsProductRepresentationValid] [(null)]  WARN  At Line number: 0, there are multiple Earthy products. Invalid case.
+
