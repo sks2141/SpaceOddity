@@ -131,8 +131,3 @@ IV. Thoughts
 		- Performance Testing: Honestly, I did not get enough time to benchmark my code performance.
 		
 		- UI Presentation : This can make the algorithm more resourceful and  better user experience. With the current implementation, due to the synchronity of algorithm, using Deferred execution or Async-await processing did not sound justifiable to me.
-	
-	- General:
-		- This assignment reminded me of "Space Odyssey 2001" movie and the song "Space Oddity" by David Bowie. Hence, the name of the solution.
-		
-		- Imagining that if I ever live such a life and if this application was the requirement to the Buy/Sell business, I would definitely incorporate some of the 'Current' Thoughts and distribute the app to fellow merchants and other consumers. This will help get feedbacks, to derive a better product.	
